@@ -1,0 +1,48 @@
+nav{
+    background-color: rgb(157, 132, 179);
+    padding: 16px 32px;
+}
+nav a{
+    margin-right: 16px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width:14vw;
+    height:auto;
+    margin-top:7vh;
+    margin-left:7vw;
+}
+input{
+    width:25vw;
+    height:7vh;
+    margin-top:2vh;
+}
+button{
+    width:8vw;
+    height:7vh;
+    margin-top:2vh;
+    background-color:rgb(118, 82, 147);
+    border: none;
+    color: white;
+    border-radius:3px;
+    margin-left:8.5vw;
+}
+button:hover{
+    background-color:gray;
+}
+select{
+    width:26vw;
+    height:7vh;
+    margin-top:2vh;
+}
+.secondmaindiv{
+    width:40vw;
+    height:80vh;
+    background-color:skyblue;
+    margin-left:30vw;
+    box-shadow: 4px 4px 4px 4px ;
+}
+span{
+    color: red;
+}
